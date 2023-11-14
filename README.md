@@ -6,7 +6,11 @@
 ### Lab 2, 17.10.23: Dziedziczenie klas
     Termin składania rozwiązań: 24.10.23
 ### Lab 3, 24.10.23: Interfejsy, klasy abstrakcyjne
-
+    Termin składania rozwiązań: 07.11.23
+### Lab 4, 07.11.23: Wyjątki, testy jednostkowe (JUnit)
+    Termin składania rozwiązań: 14.11.23
+### Lab 5, 14.11.23: Typy kolekcyjne
+    Termin składania rozwiązań: 21.11.23
 ### Komendy git
 ```
 git --version  // Checks installed git verion
