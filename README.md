@@ -11,6 +11,8 @@
     Termin składania rozwiązań: 14.11.23
 ### Lab 5, 14.11.23: Typy kolekcyjne
     Termin składania rozwiązań: 21.11.23
+### Lab 6, 21.11.23: Enum, strumienie, wyrażenia lambda
+    Termin składania rozwiązań: 28.11.23
 ### Komendy git
 ```
 git --version  // Checks installed git verion
