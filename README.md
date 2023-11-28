@@ -13,6 +13,8 @@
     Termin składania rozwiązań: 21.11.23
 ### Lab 6, 21.11.23: Enum, strumienie, wyrażenia lambda
     Termin składania rozwiązań: 28.11.23
+### Lab 7, 28.11.23: Przetwarzanie danych, JSON (JavaScript Object Notation)
+    Termin składania rozwiązań: 12.12.23
 ### Komendy git
 ```
 git --version  // Checks installed git verion
