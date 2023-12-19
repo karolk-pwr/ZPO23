@@ -32,6 +32,10 @@
 
 ### Projekt - wymagania
 
+Projekt powinien być zawarty wewnątrz repozytorium na GitHubie i zawierać plik README opisujący działanie poszczególnych klas.
+
+Podstawy pisania przejrzystego pliku README.md: [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+
 **Obowiązkowe:**
 
 * Przetwarzanie danych numerycznych lub tekstowych w postaci odczytu z pliku lub zapisu do pliku w dowolnym formacie ustrukturyzowanym (JSON, XML lub analogiczne).
