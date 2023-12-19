@@ -1,21 +1,56 @@
-# ZPO23
-## Zaawansowane programowanie obiektowe - laboratorium
+# Zaawansowane programowanie obiektowe - laboratorium, semestr zimowy 2023
+
 ### Lab 0, 03.10.23: Zasady zaliczenia i przypomnienie informacji z ubiegłego semestru
+
 ### Lab 1, 10.10.23: Debugowanie i systemy kontroli wersji
+
     Termin składania rozwiązań: 17.10.23
+
 ### Lab 2, 17.10.23: Dziedziczenie klas
+
     Termin składania rozwiązań: 24.10.23
+
 ### Lab 3, 24.10.23: Interfejsy, klasy abstrakcyjne
+
     Termin składania rozwiązań: 07.11.23
+    
 ### Lab 4, 07.11.23: Wyjątki, testy jednostkowe (JUnit)
+
     Termin składania rozwiązań: 14.11.23
+
 ### Lab 5, 14.11.23: Typy kolekcyjne
+
     Termin składania rozwiązań: 21.11.23
+
 ### Lab 6, 21.11.23: Enum, strumienie, wyrażenia lambda
+
     Termin składania rozwiązań: 28.11.23
+
 ### Lab 7, 28.11.23: Przetwarzanie danych, JSON (JavaScript Object Notation)
+
     Termin składania rozwiązań: 12.12.23
+
+### Projekt - wymagania
+
+**Obowiązkowe:**
+
+* Przetwarzanie danych numerycznych lub tekstowych w postaci odczytu z pliku lub zapisu do pliku w dowolnym formacie ustrukturyzowanym (JSON, XML lub analogiczne).
+* Przechowywanie danych w formie obiektów z zastosowaniem co najmniej jednego z mechanizmów: dziedziczenie, implementacja interfejsu.
+* Przechowywanie zbioru danych w formie kolekcji (lista, zbiór lub mapa).
+* Przetwarzanie zbioru danych przy użyciu mechanizmu strumieni z zastosowaniem co najmniej jednej konstrukcji:  wyrażenia lambda, referencje do metod.
+* Implementacja kontroli wyjątków z zastosowaniem co najmniej jednego własnego typu wyjątku.
+* Implementacja testów jednostkowych.
+* Dokumentacja kodu.
+
+**Opcjonalne:**
+* Zastosowanie klasy Optional.
+* Zastosowanie typu wyliczeniowego Enum.
+* Zastosowanie typów generycznych.
+* Implementacja interfejsu użytkownika w formie interfejsu linii poleceń lub interfejsu graficznego.
+
+
 ### Komendy git
+
 ```
 git --version  // Checks installed git verion
 
