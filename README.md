@@ -30,6 +30,10 @@
 
     Termin składania rozwiązań: 12.12.23
 
+### Lab 8, 09.01.23: Programowanie współbieżne
+
+    Termin składania rozwiązań: 30.01.23
+
 ### Projekt - wymagania
 
 Projekt powinien być zawarty wewnątrz repozytorium na GitHubie i zawierać plik README opisujący działanie poszczególnych klas.
